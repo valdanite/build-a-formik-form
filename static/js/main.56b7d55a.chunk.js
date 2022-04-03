@@ -1,2 +1,0 @@
-(this["webpackJsonptest-react-app"]=this["webpackJsonptest-react-app"]||[]).push([[0],{9:function(e,t,r){"use strict";r.r(t);var c=r(1),n=r.n(c),s=r(3),i=r.n(s),a=r(0);var o=function(){return Object(a.jsx)("div",{children:Object(a.jsx)("p",{children:"The app is ready! You can proceed with the task instructions. TODO: build you form here."})})};i.a.render(Object(a.jsx)(n.a.StrictMode,{children:Object(a.jsx)(o,{})}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.56b7d55a.chunk.js.map
